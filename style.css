@@ -1,0 +1,15 @@
+html{
+    font-family: 'Fruktur', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: aliceblue;
+}
+
+header{
+    background-color: rgb(124, 76, 124);
+    color: beige;
+    padding: 3rem 2rem;
+}
