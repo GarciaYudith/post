@@ -13,3 +13,8 @@ header{
     color: beige;
     padding: 3rem 2rem;
 }
+
+header h1{
+    font-size: 4rem;
+    
+}
