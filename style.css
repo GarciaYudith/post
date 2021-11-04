@@ -1,6 +1,34 @@
+<<<<<<< HEAD
 section{
     background-color: rgb(200, 224, 220);
     margin: 1rem 0;
     border-radius: 0.5rem;
     padding: 0.25rem 0;
+=======
+html{
+    font-family: 'Fruktur', cursive;
+font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: aliceblue;
+}
+
+header{
+    background-color: rgb(124, 76, 124);
+    color: beige;
+    padding: 3rem 2rem;
+}
+
+header h1{
+    font-size: 4rem;
+    text-align: center;
+
+}
+
+.container{
+    width: 400px;
+    margin: 0 auto;
+>>>>>>> 03-11
 }
