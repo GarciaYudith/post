@@ -25,17 +25,17 @@ header h1{
     margin: 0 auto;
 }
 
-section article{
+section{
     background-color: rgb(131, 90, 136);
     margin: 1rem 0;
     border-radius: 0.5;
     padding: 0.50rem;
 }
 
-section article{
+section:hover {
     box-shadow: 0 0.1rem 0.4rem rgb(145, 125, 177);
 }
 
-section article h2, section article p {
+h2, h3, h4, p {
     margin: 1rem;
 }
