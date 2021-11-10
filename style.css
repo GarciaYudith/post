@@ -41,3 +41,7 @@ section:hover {
 h2, h3, h4, p {
     margin: 1rem;
 }
+
+section{
+    margin: 1rem;
+}
