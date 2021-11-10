@@ -21,7 +21,7 @@ header h1{
 }
 
 .container{
-    width: 400px;
+    width: 600px;
     margin: 0 auto;
 }
 
@@ -45,3 +45,4 @@ h2, h3, h4, p {
 section{
     margin: 1rem;
 }
+
